@@ -23,4 +23,4 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=qkralsrl1029&show_icons=true&hide=stars&theme=gruvbox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkralsrl1029&hide=ShaderLab)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkralsrl1029&layout=compact&hide=ShaderLab,jupyter%20notebook,CMake,c)
