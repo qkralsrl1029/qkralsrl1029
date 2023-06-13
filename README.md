@@ -17,10 +17,9 @@
 ![Jira](https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
   
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkralsrl1029&layout=compact&hide=ShaderLab,jupyter%20notebook,CMake,c)
   </div>
 
 ---------------------------------------
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=qkralsrl1029&show_icons=true&hide=stars&theme=gruvbox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkralsrl1029&layout=compact&hide=ShaderLab,jupyter%20notebook,CMake,c)
